@@ -1,0 +1,51 @@
+"SNP1","SNP2","variant1","variant2","r2","d_prime","status","record_type","r2_threshold","SNP","retained","outcome_id","nsnp","SNPs","method","b","se","pval","Q","limit","file","url","bytes","sha256"
+"rs1058154","rs11882133","19:10336221:C:A","19:10490077:A:C",0.0946,0.4129,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs1058154","rs12720250","19:10336221:C:A","19:10369138:G:T",0.0064,0.0909,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs1058154","rs144309607","19:10336221:C:A","19:10381598:C:T",0.0067,0.1666,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs1058154","rs34725611","19:10336221:C:A","19:10366391:A:G",0.0593,0.2828,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs11882133","rs1058154","19:10490077:A:C","19:10336221:C:A",0.0946,0.4129,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs11882133","rs12720250","19:10490077:A:C","19:10369138:G:T",0.0201,0.3277,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs11882133","rs144309607","19:10490077:A:C","19:10381598:C:T",0.0356,0.8592,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs11882133","rs34725611","19:10490077:A:C","19:10366391:A:G",0.0461,0.3246,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs12720250","rs1058154","19:10369138:G:T","19:10336221:C:A",0.0064,0.0909,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs12720250","rs11882133","19:10369138:G:T","19:10490077:A:C",0.0201,0.3277,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs12720250","rs144309607","19:10369138:G:T","19:10381598:C:T",0.0047,0.1227,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs12720250","rs34725611","19:10369138:G:T","19:10366391:A:G",0.0423,0.2716,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs144309607","rs1058154","19:10381598:C:T","19:10336221:C:A",0.0067,0.1666,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs144309607","rs11882133","19:10381598:C:T","19:10490077:A:C",0.0356,0.8592,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs144309607","rs12720250","19:10381598:C:T","19:10369138:G:T",0.0047,0.1227,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs144309607","rs34725611","19:10381598:C:T","19:10366391:A:G",0.1098,0.9977,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs34725611","rs1058154","19:10366391:A:G","19:10336221:C:A",0.0593,0.2828,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs34725611","rs11882133","19:10366391:A:G","19:10490077:A:C",0.0461,0.3246,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs34725611","rs12720250","19:10366391:A:G","19:10369138:G:T",0.0423,0.2716,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+"rs34725611","rs144309607","19:10366391:A:G","19:10381598:C:T",0.1098,0.9977,"found","directed_pair_r2",,,,,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.001,"rs1058154","False",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.001,"rs11882133","False",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.001,"rs12720250","False",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.001,"rs144309607","False",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.001,"rs34725611","True",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.01,"rs1058154","False",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.01,"rs11882133","False",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.01,"rs12720250","False",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.01,"rs144309607","False",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.01,"rs34725611","True",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.1,"rs1058154","True",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.1,"rs11882133","True",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.1,"rs12720250","True",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.1,"rs144309607","False",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruning_selection",0.1,"rs34725611","True",,,,,,,,,,,,,
+,,,,,,,"Finnish_pruned_MR",0.001,,,"M13_RHEUMA",1,"rs34725611","Wald ratio",-0.283222544418392,0.053806642975675,1.41177369517322e-07,0,"Finnish reference pruning, not in-sample covariance-aware MR",,,,
+,,,,,,,"Finnish_pruned_MR",0.001,,,"RHEUMA_SEROPOS_STRICT",1,"rs34725611","Wald ratio",-0.357807915316262,0.0844507474456108,2.26644409314546e-05,0,"Finnish reference pruning, not in-sample covariance-aware MR",,,,
+,,,,,,,"Finnish_pruned_MR",0.01,,,"M13_RHEUMA",1,"rs34725611","Wald ratio",-0.283222544418392,0.053806642975675,1.41177369517322e-07,0,"Finnish reference pruning, not in-sample covariance-aware MR",,,,
+,,,,,,,"Finnish_pruned_MR",0.01,,,"RHEUMA_SEROPOS_STRICT",1,"rs34725611","Wald ratio",-0.357807915316262,0.0844507474456108,2.26644409314546e-05,0,"Finnish reference pruning, not in-sample covariance-aware MR",,,,
+,,,,,,,"Finnish_pruned_MR",0.1,,,"M13_RHEUMA",4,"rs34725611;rs12720250;rs11882133;rs1058154","Diagonal-weight IVW after Finnish pruning",-0.207579305757229,0.0785834426899689,0.00825362665699938,13.6318049266316,"Finnish reference pruning, not in-sample covariance-aware MR",,,,
+,,,,,,,"Finnish_pruned_MR",0.1,,,"RHEUMA_SEROPOS_STRICT",4,"rs34725611;rs12720250;rs11882133;rs1058154","Diagonal-weight IVW after Finnish pruning",-0.285689986600337,0.140261069027823,0.0416656276026872,17.8289752814277,"Finnish reference pruning, not in-sample covariance-aware MR",,,,
+,,,,,,"ok","source_manifest",,,,,,,,,,,,,"FinnGen_LD_API_README.md","https://raw.githubusercontent.com/FINNGEN/ld_server/master/README.md",3850,"d2b57c89e8d1b252479d1d2a6d8bf5b05de8fd752b684922060a64c0b112544a"
+,,,,,,"ok","source_manifest",,,,,,,,,,,,,"FinnGen_LD_API_Code.py","https://raw.githubusercontent.com/FINNGEN/ld_server/master/ld_server.py",10607,"5d6bb65a09dece77ef2e4dbb7da1c4106db81bc8f7a2974a1e16d9b664fcc0ac"
+,,,,,,"ok","source_manifest",,,,,,,,,,,,,"FinnGen_LD_API_Config.py","https://raw.githubusercontent.com/FINNGEN/ld_server/master/config.py",748,"5b0341c5a1a37fe40884b90c4ef6bfcc17ddb7b0224b1a410ebf54d940032817"
+,,,,,,"HTTPError","source_manifest",,,,,,,,,,,,,"FinnGen_LD_Documentation.md","https://finngen.gitbook.io/documentation/methods/genotype-imputation/ld-estimation.md",,""
+,,,,,,"ok","source_manifest",,,,,,,,,,,,,"SISu42_rs1058154.json","https://api.finngen.fi/api/ld?variant=19%3A10336221%3AC%3AA&window=1000000&panel=sisu42&r2_thresh=0",719003,"2160a2e3ed4b6821691bcc63e6b528bc74a2cf0b64155a5f3275b889ae6997bf"
+,,,,,,"ok","source_manifest",,,,,,,,,,,,,"SISu42_rs11882133.json","https://api.finngen.fi/api/ld?variant=19%3A10490077%3AA%3AC&window=1000000&panel=sisu42&r2_thresh=0",703854,"cbbd76bafd29b3a7a4ac548cc17ff5d441526ab0e910c098051b84bca7c42b9f"
+,,,,,,"ok","source_manifest",,,,,,,,,,,,,"SISu42_rs12720250.json","https://api.finngen.fi/api/ld?variant=19%3A10369138%3AG%3AT&window=1000000&panel=sisu42&r2_thresh=0",720048,"e2ca30fd2c6de5d6d32eb81000129cdd676ae7718ca4f29262e171774b9e9fba"
+,,,,,,"ok","source_manifest",,,,,,,,,,,,,"SISu42_rs144309607.json","https://api.finngen.fi/api/ld?variant=19%3A10381598%3AC%3AT&window=1000000&panel=sisu42&r2_thresh=0",716281,"b2255b396b99afd3854cbe11e31279e485f927dc22000efecfcef87be36235e6"
+,,,,,,"ok","source_manifest",,,,,,,,,,,,,"SISu42_rs34725611.json","https://api.finngen.fi/api/ld?variant=19%3A10366391%3AA%3AG&window=1000000&panel=sisu42&r2_thresh=0",722819,"7c3a01e18d9feedfce55d5b8c1fb93e46904e5f454ae73f2cb2117875b46723a"

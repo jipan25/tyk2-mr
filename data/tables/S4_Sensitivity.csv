@@ -1,0 +1,7 @@
+"target","trait","id.outcome","nsnp","b_ivw","p_ivw","Q_pval","Egger_Intercept_p","MR_PRESSO_Global_p","sensitivity_interpretation"
+"JAK2","Bioavailable Testosterone","ieu-b-4868",7,-0.049976789237036,1.24043995949698e-06,0.604262428328087,0.269098646747276,0.6,"No major heterogeneity/pleiotropy signal in available summary"
+"JAK2","Non-cancer illness code, self-reported: asthma","ukb-b-18113",7,0.00884499230102619,3.04447597577927e-05,0.407989353675161,0.127985578396738,0.491,"No major heterogeneity/pleiotropy signal in available summary"
+"JAK2","Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: Asthma","ukb-b-20296",7,0.00869975958172007,3.30344039816592e-05,0.559471805461643,0.178995068900139,0.623,"No major heterogeneity/pleiotropy signal in available summary"
+"JAK2","white blood cell count","ieu-b-30",7,0.0376205596936343,4.73422936994141e-05,0.0207690600868706,0.205367833489596,0.057,"Heterogeneity detected; interpret cautiously"
+"TYK2","Schizophrenia","ieu-b-5070",4,-4.83998157439227,1.07335458545026e-09,4.77866116367414e-124,0.00264480628909835,0.004,"Heterogeneity detected; interpret cautiously"
+"TYK2","Non-cancer illness code, self-reported: rheumatoid arthritis","ukb-b-9125",4,-0.00324173733412544,3.5933309415868e-06,0.716629976371443,0.862971362629199,0.695,"No major heterogeneity/pleiotropy signal in available summary"

@@ -1,0 +1,313 @@
+chromosome,feature,start,end,strand,phase,gene_id,gene_version,gene_name,gene_source,gene_biotype,transcript_id,transcript_version,transcript_name,transcript_source,transcript_biotype,tag,transcript_support_level,exon_number,exon_id,exon_version,protein_id,protein_version,ccds_id
+19,gene,10350529,10380572,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,,,,,,,,,,,,,
+19,transcript,10350533,10352492,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525976,5,TYK2-207,havana,protein_coding,mRNA_start_NF,3,,,,,,
+19,exon,10352434,10352492,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525976,5,TYK2-207,havana,protein_coding,mRNA_start_NF,3,1,ENSE00002156009,1,,,
+19,CDS,10352434,10352492,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525976,5,TYK2-207,havana,protein_coding,mRNA_start_NF,3,1,,,ENSP00000434831,1,
+19,exon,10350533,10350968,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525976,5,TYK2-207,havana,protein_coding,mRNA_start_NF,3,2,ENSE00003646624,1,,,
+19,CDS,10350837,10350968,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525976,5,TYK2-207,havana,protein_coding,mRNA_start_NF,3,2,,,ENSP00000434831,1,
+19,stop_codon,10350834,10350836,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525976,5,TYK2-207,havana,protein_coding,mRNA_start_NF,3,2,,,,,
+19,three_prime_utr,10350533,10350833,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525976,5,TYK2-207,havana,protein_coding,mRNA_start_NF,3,,,,,,
+19,transcript,10350533,10353256,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530220,1,TYK2-214,havana,retained_intron,,3,,,,,,
+19,exon,10352926,10353256,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530220,1,TYK2-214,havana,retained_intron,,3,1,ENSE00002190590,1,,,
+19,exon,10350533,10350968,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530220,1,TYK2-214,havana,retained_intron,,3,2,ENSE00003646028,1,,,
+19,transcript,10350533,10380565,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,,,,,,
+19,exon,10380510,10380565,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,1,ENSE00002169850,1,,,
+19,exon,10366417,10366580,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,2,ENSE00003635280,1,,,
+19,CDS,10366417,10366490,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,2,,,ENSP00000433203,1,
+19,start_codon,10366488,10366490,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,2,,,,,
+19,exon,10365517,10365898,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,3,ENSE00000676192,1,,,
+19,CDS,10365517,10365898,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,3,,,ENSP00000433203,1,
+19,exon,10364851,10365048,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,4,ENSE00000676191,1,,,
+19,CDS,10364851,10365048,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,4,,,ENSP00000433203,1,
+19,exon,10364614,10364771,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,5,ENSE00000676190,1,,,
+19,CDS,10364614,10364771,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,5,,,ENSP00000433203,1,
+19,exon,10362549,10362657,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,6,ENSE00000676189,1,,,
+19,CDS,10362549,10362657,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,6,,,ENSP00000433203,1,
+19,exon,10362264,10362456,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,7,ENSE00000676188,1,,,
+19,CDS,10362264,10362456,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,7,,,ENSP00000433203,1,
+19,exon,10362078,10362181,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,8,ENSE00000676187,1,,,
+19,CDS,10362078,10362181,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,8,,,ENSP00000433203,1,
+19,exon,10361770,10361955,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,9,ENSE00003489148,1,,,
+19,CDS,10361770,10361955,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,9,,,ENSP00000433203,1,
+19,exon,10361511,10361598,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,10,ENSE00000676185,1,,,
+19,CDS,10361511,10361598,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,10,,,ENSP00000433203,1,
+19,exon,10359175,10359302,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,11,ENSE00003644197,1,,,
+19,CDS,10359175,10359302,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,11,,,ENSP00000433203,1,
+19,exon,10358003,10358138,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,12,ENSE00003497765,1,,,
+19,CDS,10358003,10358138,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,12,,,ENSP00000433203,1,
+19,exon,10357764,10357918,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,13,ENSE00000676182,1,,,
+19,CDS,10357764,10357918,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,13,,,ENSP00000433203,1,
+19,exon,10356568,10356718,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,14,ENSE00003590014,1,,,
+19,CDS,10356568,10356718,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,14,,,ENSP00000433203,1,
+19,exon,10354512,10354609,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,15,ENSE00003528248,1,,,
+19,CDS,10354512,10354609,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,15,,,ENSP00000433203,1,
+19,exon,10354042,10354234,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,16,ENSE00002783874,1,,,
+19,CDS,10354042,10354234,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,16,,,ENSP00000433203,1,
+19,exon,10353528,10353646,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,17,ENSE00003595926,1,,,
+19,CDS,10353528,10353646,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,17,,,ENSP00000433203,1,
+19,exon,10352926,10353098,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,18,ENSE00003516462,1,,,
+19,CDS,10352926,10353098,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,18,,,ENSP00000433203,1,
+19,exon,10352434,10352551,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,19,ENSE00003785601,1,,,
+19,CDS,10352434,10352551,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,19,,,ENSP00000433203,1,
+19,exon,10351052,10351162,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,20,ENSE00003656906,1,,,
+19,CDS,10351052,10351162,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,20,,,ENSP00000433203,1,
+19,exon,10350533,10350968,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,21,ENSE00003646624,1,,,
+19,CDS,10350837,10350968,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,21,,,ENSP00000433203,1,
+19,stop_codon,10350834,10350836,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,21,,,,,
+19,five_prime_utr,10380510,10380565,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,,,,,,
+19,five_prime_utr,10366491,10366580,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,,,,,,
+19,three_prime_utr,10350533,10350833,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524462,5,TYK2-202,havana,protein_coding,basic,1,,,,,,
+19,transcript,10350533,10380572,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),,,,,,CCDS12236
+19,exon,10380380,10380572,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),1,ENSE00002169799,1,,,CCDS12236
+19,exon,10379615,10379779,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),2,ENSE00002178984,1,,,CCDS12236
+19,exon,10378214,10378426,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),3,ENSE00002180282,1,,,CCDS12236
+19,CDS,10378214,10378406,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),3,,,ENSP00000431885,1,CCDS12236
+19,start_codon,10378404,10378406,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),3,,,,,CCDS12236
+19,exon,10368295,10368418,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),4,ENSE00000676198,1,,,CCDS12236
+19,CDS,10368295,10368418,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),4,,,ENSP00000431885,1,CCDS12236
+19,exon,10368055,10368202,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),5,ENSE00000676195,1,,,CCDS12236
+19,CDS,10368055,10368202,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),5,,,ENSP00000431885,1,CCDS12236
+19,exon,10366417,10366580,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),6,ENSE00003479701,1,,,CCDS12236
+19,CDS,10366417,10366580,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),6,,,ENSP00000431885,1,CCDS12236
+19,exon,10365517,10365898,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),7,ENSE00000676192,1,,,CCDS12236
+19,CDS,10365517,10365898,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),7,,,ENSP00000431885,1,CCDS12236
+19,exon,10364851,10365048,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),8,ENSE00000676191,1,,,CCDS12236
+19,CDS,10364851,10365048,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),8,,,ENSP00000431885,1,CCDS12236
+19,exon,10364614,10364771,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),9,ENSE00000676190,1,,,CCDS12236
+19,CDS,10364614,10364771,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),9,,,ENSP00000431885,1,CCDS12236
+19,exon,10362549,10362657,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),10,ENSE00000676189,1,,,CCDS12236
+19,CDS,10362549,10362657,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),10,,,ENSP00000431885,1,CCDS12236
+19,exon,10362264,10362456,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),11,ENSE00000676188,1,,,CCDS12236
+19,CDS,10362264,10362456,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),11,,,ENSP00000431885,1,CCDS12236
+19,exon,10362078,10362181,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),12,ENSE00000676187,1,,,CCDS12236
+19,CDS,10362078,10362181,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),12,,,ENSP00000431885,1,CCDS12236
+19,exon,10361770,10361955,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),13,ENSE00003489148,1,,,CCDS12236
+19,CDS,10361770,10361955,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),13,,,ENSP00000431885,1,CCDS12236
+19,exon,10361511,10361598,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),14,ENSE00000676185,1,,,CCDS12236
+19,CDS,10361511,10361598,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),14,,,ENSP00000431885,1,CCDS12236
+19,exon,10359175,10359302,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),15,ENSE00003644197,1,,,CCDS12236
+19,CDS,10359175,10359302,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),15,,,ENSP00000431885,1,CCDS12236
+19,exon,10358003,10358138,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),16,ENSE00003497765,1,,,CCDS12236
+19,CDS,10358003,10358138,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),16,,,ENSP00000431885,1,CCDS12236
+19,exon,10357764,10357918,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),17,ENSE00000676182,1,,,CCDS12236
+19,CDS,10357764,10357918,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),17,,,ENSP00000431885,1,CCDS12236
+19,exon,10356568,10356718,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),18,ENSE00003590014,1,,,CCDS12236
+19,CDS,10356568,10356718,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),18,,,ENSP00000431885,1,CCDS12236
+19,exon,10354512,10354609,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),19,ENSE00003528248,1,,,CCDS12236
+19,CDS,10354512,10354609,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),19,,,ENSP00000431885,1,CCDS12236
+19,exon,10354042,10354234,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),20,ENSE00002783874,1,,,CCDS12236
+19,CDS,10354042,10354234,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),20,,,ENSP00000431885,1,CCDS12236
+19,exon,10353528,10353646,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),21,ENSE00003595926,1,,,CCDS12236
+19,CDS,10353528,10353646,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),21,,,ENSP00000431885,1,CCDS12236
+19,exon,10352926,10353098,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),22,ENSE00003516462,1,,,CCDS12236
+19,CDS,10352926,10353098,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),22,,,ENSP00000431885,1,CCDS12236
+19,exon,10352434,10352551,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),23,ENSE00003785601,1,,,CCDS12236
+19,CDS,10352434,10352551,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),23,,,ENSP00000431885,1,CCDS12236
+19,exon,10351052,10351162,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),24,ENSE00003656906,1,,,CCDS12236
+19,CDS,10351052,10351162,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),24,,,ENSP00000431885,1,CCDS12236
+19,exon,10350533,10350968,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),25,ENSE00003646624,1,,,CCDS12236
+19,CDS,10350837,10350968,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),25,,,ENSP00000431885,1,CCDS12236
+19,stop_codon,10350834,10350836,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),25,,,,,CCDS12236
+19,five_prime_utr,10380380,10380572,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),,,,,,CCDS12236
+19,five_prime_utr,10379615,10379779,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),,,,,,CCDS12236
+19,five_prime_utr,10378407,10378426,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),,,,,,CCDS12236
+19,three_prime_utr,10350533,10350833,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525621,6,TYK2-205,havana,protein_coding,basic,1 (assigned to previous version 5),,,,,,CCDS12236
+19,transcript,10350748,10356613,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530560,5,TYK2-215,havana,protein_coding,mRNA_start_NF,3,,,,,,
+19,exon,10356568,10356613,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530560,5,TYK2-215,havana,protein_coding,mRNA_start_NF,3,1,ENSE00002200450,1,,,
+19,CDS,10356568,10356613,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530560,5,TYK2-215,havana,protein_coding,mRNA_start_NF,3,1,,,ENSP00000465291,1,
+19,exon,10354512,10354609,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530560,5,TYK2-215,havana,protein_coding,mRNA_start_NF,3,2,ENSE00003528248,1,,,
+19,CDS,10354512,10354609,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530560,5,TYK2-215,havana,protein_coding,mRNA_start_NF,3,2,,,ENSP00000465291,1,
+19,exon,10354042,10354234,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530560,5,TYK2-215,havana,protein_coding,mRNA_start_NF,3,3,ENSE00002783874,1,,,
+19,CDS,10354042,10354234,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530560,5,TYK2-215,havana,protein_coding,mRNA_start_NF,3,3,,,ENSP00000465291,1,
+19,exon,10350748,10350968,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530560,5,TYK2-215,havana,protein_coding,mRNA_start_NF,3,4,ENSE00002188500,1,,,
+19,CDS,10350880,10350968,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530560,5,TYK2-215,havana,protein_coding,mRNA_start_NF,3,4,,,ENSP00000465291,1,
+19,stop_codon,10350877,10350879,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530560,5,TYK2-215,havana,protein_coding,mRNA_start_NF,3,4,,,,,
+19,three_prime_utr,10350748,10350876,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530560,5,TYK2-215,havana,protein_coding,mRNA_start_NF,3,,,,,,
+19,transcript,10350788,10353137,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529422,1,TYK2-212,havana,processed_transcript,,5,,,,,,
+19,exon,10353022,10353137,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529422,1,TYK2-212,havana,processed_transcript,,5,1,ENSE00002191901,1,,,
+19,exon,10350788,10351293,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529422,1,TYK2-212,havana,processed_transcript,,5,2,ENSE00002169108,1,,,
+19,transcript,10350853,10351285,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524470,1,TYK2-203,havana,retained_intron,,2,,,,,,
+19,exon,10351052,10351285,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524470,1,TYK2-203,havana,retained_intron,,2,1,ENSE00002195495,1,,,
+19,exon,10350853,10350968,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000524470,1,TYK2-203,havana,retained_intron,,2,2,ENSE00002188771,1,,,
+19,transcript,10350947,10354522,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,,,,,,
+19,exon,10354512,10354522,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,1,ENSE00002888343,1,,,
+19,CDS,10354512,10354522,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,1,,,ENSP00000466340,1,
+19,exon,10354042,10354234,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,2,ENSE00002783874,1,,,
+19,CDS,10354042,10354234,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,2,,,ENSP00000466340,1,
+19,exon,10352926,10353098,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,3,ENSE00003661672,1,,,
+19,CDS,10352926,10353098,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,3,,,ENSP00000466340,1,
+19,exon,10352434,10352551,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,4,ENSE00003662417,1,,,
+19,CDS,10352525,10352551,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,4,,,ENSP00000466340,1,
+19,stop_codon,10352522,10352524,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,4,,,,,
+19,exon,10351052,10351162,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,5,ENSE00003575818,1,,,
+19,exon,10350947,10350968,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,6,ENSE00002918066,1,,,
+19,three_prime_utr,10352434,10352521,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,,,,,,
+19,three_prime_utr,10351052,10351162,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,,,,,,
+19,three_prime_utr,10350947,10350968,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000527481,2,TYK2-208,havana,nonsense_mediated_decay,mRNA_start_NF,3,,,,,,
+19,transcript,10351421,10354103,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000592137,1,TYK2-221,havana,processed_transcript,,3,,,,,,
+19,exon,10354042,10354103,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000592137,1,TYK2-221,havana,processed_transcript,,3,1,ENSE00002905066,1,,,
+19,exon,10353528,10353646,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000592137,1,TYK2-221,havana,processed_transcript,,3,2,ENSE00003549763,1,,,
+19,exon,10352926,10353098,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000592137,1,TYK2-221,havana,processed_transcript,,3,3,ENSE00003576201,1,,,
+19,exon,10352434,10352551,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000592137,1,TYK2-221,havana,processed_transcript,,3,4,ENSE00003675369,1,,,
+19,exon,10351421,10351484,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000592137,1,TYK2-221,havana,processed_transcript,,3,5,ENSE00002928928,1,,,
+19,transcript,10352434,10354078,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529739,1,TYK2-213,havana,retained_intron,,2,,,,,,
+19,exon,10353528,10354078,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529739,1,TYK2-213,havana,retained_intron,,2,1,ENSE00002197752,1,,,
+19,exon,10352926,10353098,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529739,1,TYK2-213,havana,retained_intron,,2,2,ENSE00003576201,1,,,
+19,exon,10352434,10352551,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529739,1,TYK2-213,havana,retained_intron,,2,3,ENSE00003675369,1,,,
+19,transcript,10353911,10357901,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529412,1,TYK2-211,havana,retained_intron,,3,,,,,,
+19,exon,10357764,10357901,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529412,1,TYK2-211,havana,retained_intron,,3,1,ENSE00002187437,1,,,
+19,exon,10356568,10356718,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529412,1,TYK2-211,havana,retained_intron,,3,2,ENSE00003629340,1,,,
+19,exon,10354512,10354609,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529412,1,TYK2-211,havana,retained_intron,,3,3,ENSE00003463590,1,,,
+19,exon,10353911,10354234,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529412,1,TYK2-211,havana,retained_intron,,3,4,ENSE00002184190,1,,,
+19,transcript,10354538,10357084,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000534228,1,TYK2-220,havana,retained_intron,,3,,,,,,
+19,exon,10356568,10357084,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000534228,1,TYK2-220,havana,retained_intron,,3,1,ENSE00002154234,1,,,
+19,exon,10354538,10354609,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000534228,1,TYK2-220,havana,retained_intron,,3,2,ENSE00002147432,1,,,
+19,transcript,10357385,10380525,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,,,,,,
+19,exon,10380380,10380525,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,1,ENSE00002176788,1,,,
+19,exon,10379615,10379779,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,2,ENSE00002178984,1,,,
+19,exon,10378214,10378426,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,3,ENSE00002180282,1,,,
+19,CDS,10378214,10378406,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,3,,,ENSP00000432728,1,
+19,start_codon,10378404,10378406,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,3,,,,,
+19,exon,10368295,10368418,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,4,ENSE00000676198,1,,,
+19,CDS,10368295,10368418,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,4,,,ENSP00000432728,1,
+19,exon,10368055,10368202,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,5,ENSE00000676195,1,,,
+19,CDS,10368055,10368202,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,5,,,ENSP00000432728,1,
+19,exon,10366417,10366580,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,6,ENSE00003479701,1,,,
+19,CDS,10366417,10366580,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,6,,,ENSP00000432728,1,
+19,exon,10365517,10365898,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,7,ENSE00000676192,1,,,
+19,CDS,10365517,10365898,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,7,,,ENSP00000432728,1,
+19,exon,10364851,10365048,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,8,ENSE00000676191,1,,,
+19,CDS,10364851,10365048,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,8,,,ENSP00000432728,1,
+19,exon,10364614,10364771,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,9,ENSE00000676190,1,,,
+19,CDS,10364614,10364771,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,9,,,ENSP00000432728,1,
+19,exon,10362549,10362657,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,10,ENSE00000676189,1,,,
+19,CDS,10362549,10362657,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,10,,,ENSP00000432728,1,
+19,exon,10362264,10362456,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,11,ENSE00000676188,1,,,
+19,CDS,10362264,10362456,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,11,,,ENSP00000432728,1,
+19,exon,10362078,10362181,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,12,ENSE00000676187,1,,,
+19,CDS,10362078,10362181,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,12,,,ENSP00000432728,1,
+19,exon,10361770,10361955,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,13,ENSE00003489148,1,,,
+19,CDS,10361770,10361955,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,13,,,ENSP00000432728,1,
+19,exon,10361511,10361598,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,14,ENSE00000676185,1,,,
+19,CDS,10361511,10361598,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,14,,,ENSP00000432728,1,
+19,exon,10359175,10359302,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,15,ENSE00003644197,1,,,
+19,CDS,10359175,10359302,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,15,,,ENSP00000432728,1,
+19,exon,10358003,10358138,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,16,ENSE00003497765,1,,,
+19,CDS,10358003,10358138,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,16,,,ENSP00000432728,1,
+19,exon,10357385,10357918,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,17,ENSE00002190879,1,,,
+19,CDS,10357467,10357918,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,17,,,ENSP00000432728,1,
+19,stop_codon,10357464,10357466,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,17,,,,,
+19,five_prime_utr,10380380,10380525,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,,,,,,
+19,five_prime_utr,10379615,10379779,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,,,,,,
+19,five_prime_utr,10378407,10378426,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,,,,,,
+19,three_prime_utr,10357385,10357463,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529370,5,TYK2-210,havana,protein_coding,basic,2,,,,,,
+19,transcript,10357794,10361905,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,,,,,,
+19,exon,10361770,10361905,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,1,ENSE00002147334,1,,,
+19,CDS,10361770,10361905,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,1,,,ENSP00000432320,1,
+19,exon,10361511,10361598,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,2,ENSE00000676185,1,,,
+19,CDS,10361511,10361598,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,2,,,ENSP00000432320,1,
+19,exon,10360962,10361073,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,3,ENSE00002190110,1,,,
+19,CDS,10361054,10361073,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,3,,,ENSP00000432320,1,
+19,stop_codon,10361051,10361053,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,3,,,,,
+19,exon,10359175,10359302,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,4,ENSE00003603181,1,,,
+19,exon,10358003,10358138,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,5,ENSE00003679800,1,,,
+19,exon,10357794,10357918,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,6,ENSE00002172905,1,,,
+19,three_prime_utr,10360962,10361050,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,,,,,,
+19,three_prime_utr,10359175,10359302,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,,,,,,
+19,three_prime_utr,10358003,10358138,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,,,,,,
+19,three_prime_utr,10357794,10357918,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000533334,1,TYK2-219,havana,nonsense_mediated_decay,mRNA_start_NF,3,,,,,,
+19,transcript,10361305,10362183,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531620,1,TYK2-217,havana,retained_intron,,3,,,,,,
+19,exon,10362078,10362183,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531620,1,TYK2-217,havana,retained_intron,,3,1,ENSE00002149883,1,,,
+19,exon,10361770,10361955,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531620,1,TYK2-217,havana,retained_intron,,3,2,ENSE00003689767,1,,,
+19,exon,10361305,10361598,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531620,1,TYK2-217,havana,retained_intron,,3,3,ENSE00002200565,1,,,
+19,transcript,10362580,10365863,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525220,1,TYK2-204,havana,protein_coding,mRNA_start_NF,4,,,,,,
+19,exon,10365517,10365863,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525220,1,TYK2-204,havana,protein_coding,mRNA_start_NF,4,1,ENSE00002187936,1,,,
+19,CDS,10365517,10365863,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525220,1,TYK2-204,havana,protein_coding,mRNA_start_NF,4,1,,,ENSP00000434931,1,
+19,exon,10364614,10364771,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525220,1,TYK2-204,havana,protein_coding,mRNA_start_NF,4,2,ENSE00000676190,1,,,
+19,CDS,10364614,10364771,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525220,1,TYK2-204,havana,protein_coding,mRNA_start_NF,4,2,,,ENSP00000434931,1,
+19,exon,10362580,10362657,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525220,1,TYK2-204,havana,protein_coding,mRNA_start_NF,4,3,ENSE00002159615,1,,,
+19,CDS,10362580,10362657,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525220,1,TYK2-204,havana,protein_coding,mRNA_start_NF,4,3,,,ENSP00000434931,1,
+19,transcript,10368063,10368539,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529317,1,TYK2-209,havana,retained_intron,,3,,,,,,
+19,exon,10368295,10368539,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529317,1,TYK2-209,havana,retained_intron,,3,1,ENSE00002182496,1,,,
+19,exon,10368063,10368202,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000529317,1,TYK2-209,havana,retained_intron,,3,2,ENSE00002185062,1,,,
+19,transcript,10368122,10368741,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525824,1,TYK2-206,havana,processed_transcript,,3,,,,,,
+19,exon,10368532,10368741,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525824,1,TYK2-206,havana,processed_transcript,,3,1,ENSE00002180274,1,,,
+19,exon,10368295,10368371,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525824,1,TYK2-206,havana,processed_transcript,,3,2,ENSE00002159741,1,,,
+19,exon,10368122,10368202,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000525824,1,TYK2-206,havana,processed_transcript,,3,3,ENSE00002143043,1,,,
+19,transcript,10368164,10380572,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531836,5,TYK2-218,havana,protein_coding,mRNA_end_NF,4,,,,,,
+19,exon,10380380,10380572,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531836,5,TYK2-218,havana,protein_coding,mRNA_end_NF,4,1,ENSE00002169799,1,,,
+19,exon,10379615,10379689,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531836,5,TYK2-218,havana,protein_coding,mRNA_end_NF,4,2,ENSE00002194628,1,,,
+19,exon,10378214,10378426,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531836,5,TYK2-218,havana,protein_coding,mRNA_end_NF,4,3,ENSE00002180282,1,,,
+19,CDS,10378214,10378406,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531836,5,TYK2-218,havana,protein_coding,mRNA_end_NF,4,3,,,ENSP00000436175,1,
+19,start_codon,10378404,10378406,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531836,5,TYK2-218,havana,protein_coding,mRNA_end_NF,4,3,,,,,
+19,exon,10368295,10368418,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531836,5,TYK2-218,havana,protein_coding,mRNA_end_NF,4,4,ENSE00000676198,1,,,
+19,CDS,10368295,10368418,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531836,5,TYK2-218,havana,protein_coding,mRNA_end_NF,4,4,,,ENSP00000436175,1,
+19,exon,10368164,10368202,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531836,5,TYK2-218,havana,protein_coding,mRNA_end_NF,4,5,ENSE00002160979,1,,,
+19,CDS,10368164,10368202,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531836,5,TYK2-218,havana,protein_coding,mRNA_end_NF,4,5,,,ENSP00000436175,1,
+19,five_prime_utr,10380380,10380572,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531836,5,TYK2-218,havana,protein_coding,mRNA_end_NF,4,,,,,,
+19,five_prime_utr,10379615,10379689,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531836,5,TYK2-218,havana,protein_coding,mRNA_end_NF,4,,,,,,
+19,five_prime_utr,10378407,10378426,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000531836,5,TYK2-218,havana,protein_coding,mRNA_end_NF,4,,,,,,
+19,transcript,10368329,10380510,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530829,1,TYK2-216,havana,protein_coding,mRNA_end_NF,5,,,,,,
+19,exon,10380380,10380510,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530829,1,TYK2-216,havana,protein_coding,mRNA_end_NF,5,1,ENSE00002171625,1,,,
+19,exon,10379615,10379779,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530829,1,TYK2-216,havana,protein_coding,mRNA_end_NF,5,2,ENSE00002178984,1,,,
+19,exon,10378214,10378426,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530829,1,TYK2-216,havana,protein_coding,mRNA_end_NF,5,3,ENSE00002180282,1,,,
+19,CDS,10378214,10378406,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530829,1,TYK2-216,havana,protein_coding,mRNA_end_NF,5,3,,,ENSP00000436826,1,
+19,start_codon,10378404,10378406,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530829,1,TYK2-216,havana,protein_coding,mRNA_end_NF,5,3,,,,,
+19,exon,10369757,10369877,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530829,1,TYK2-216,havana,protein_coding,mRNA_end_NF,5,4,ENSE00002148131,1,,,
+19,CDS,10369757,10369877,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530829,1,TYK2-216,havana,protein_coding,mRNA_end_NF,5,4,,,ENSP00000436826,1,
+19,exon,10368329,10368418,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530829,1,TYK2-216,havana,protein_coding,mRNA_end_NF,5,5,ENSE00002185249,1,,,
+19,CDS,10368329,10368418,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530829,1,TYK2-216,havana,protein_coding,mRNA_end_NF,5,5,,,ENSP00000436826,1,
+19,five_prime_utr,10380380,10380510,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530829,1,TYK2-216,havana,protein_coding,mRNA_end_NF,5,,,,,,
+19,five_prime_utr,10379615,10379779,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530829,1,TYK2-216,havana,protein_coding,mRNA_end_NF,5,,,,,,
+19,five_prime_utr,10378407,10378426,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000530829,1,TYK2-216,havana,protein_coding,mRNA_end_NF,5,,,,,,
+19,transcript,10350529,10378508,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,,,,,,CCDS12236
+19,exon,10378214,10378508,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,1,ENSE00001223242,9,,,CCDS12236
+19,CDS,10378214,10378406,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,1,,,ENSP00000264818,6,CCDS12236
+19,start_codon,10378404,10378406,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,1,,,,,CCDS12236
+19,exon,10368295,10368418,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,2,ENSE00000676198,1,,,CCDS12236
+19,CDS,10368295,10368418,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,2,,,ENSP00000264818,6,CCDS12236
+19,exon,10368055,10368202,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,3,ENSE00000676195,1,,,CCDS12236
+19,CDS,10368055,10368202,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,3,,,ENSP00000264818,6,CCDS12236
+19,exon,10366417,10366580,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,4,ENSE00003479701,1,,,CCDS12236
+19,CDS,10366417,10366580,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,4,,,ENSP00000264818,6,CCDS12236
+19,exon,10365517,10365898,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,5,ENSE00000676192,1,,,CCDS12236
+19,CDS,10365517,10365898,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,5,,,ENSP00000264818,6,CCDS12236
+19,exon,10364851,10365048,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,6,ENSE00000676191,1,,,CCDS12236
+19,CDS,10364851,10365048,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,6,,,ENSP00000264818,6,CCDS12236
+19,exon,10364614,10364771,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,7,ENSE00000676190,1,,,CCDS12236
+19,CDS,10364614,10364771,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,7,,,ENSP00000264818,6,CCDS12236
+19,exon,10362549,10362657,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,8,ENSE00000676189,1,,,CCDS12236
+19,CDS,10362549,10362657,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,8,,,ENSP00000264818,6,CCDS12236
+19,exon,10362264,10362456,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,9,ENSE00000676188,1,,,CCDS12236
+19,CDS,10362264,10362456,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,9,,,ENSP00000264818,6,CCDS12236
+19,exon,10362078,10362181,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,10,ENSE00000676187,1,,,CCDS12236
+19,CDS,10362078,10362181,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,10,,,ENSP00000264818,6,CCDS12236
+19,exon,10361770,10361955,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,11,ENSE00003489148,1,,,CCDS12236
+19,CDS,10361770,10361955,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,11,,,ENSP00000264818,6,CCDS12236
+19,exon,10361511,10361598,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,12,ENSE00000676185,1,,,CCDS12236
+19,CDS,10361511,10361598,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,12,,,ENSP00000264818,6,CCDS12236
+19,exon,10359175,10359302,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,13,ENSE00003644197,1,,,CCDS12236
+19,CDS,10359175,10359302,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,13,,,ENSP00000264818,6,CCDS12236
+19,exon,10358003,10358138,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,14,ENSE00003497765,1,,,CCDS12236
+19,CDS,10358003,10358138,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,14,,,ENSP00000264818,6,CCDS12236
+19,exon,10357764,10357918,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,15,ENSE00000676182,1,,,CCDS12236
+19,CDS,10357764,10357918,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,15,,,ENSP00000264818,6,CCDS12236
+19,exon,10356568,10356718,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,16,ENSE00003590014,1,,,CCDS12236
+19,CDS,10356568,10356718,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,16,,,ENSP00000264818,6,CCDS12236
+19,exon,10354512,10354609,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,17,ENSE00003528248,1,,,CCDS12236
+19,CDS,10354512,10354609,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,17,,,ENSP00000264818,6,CCDS12236
+19,exon,10354042,10354234,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,18,ENSE00002783874,1,,,CCDS12236
+19,CDS,10354042,10354234,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,18,,,ENSP00000264818,6,CCDS12236
+19,exon,10353528,10353646,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,19,ENSE00003595926,1,,,CCDS12236
+19,CDS,10353528,10353646,-,2,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,19,,,ENSP00000264818,6,CCDS12236
+19,exon,10352926,10353098,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,20,ENSE00003516462,1,,,CCDS12236
+19,CDS,10352926,10353098,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,20,,,ENSP00000264818,6,CCDS12236
+19,exon,10352434,10352551,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,21,ENSE00003785601,1,,,CCDS12236
+19,CDS,10352434,10352551,-,1,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,21,,,ENSP00000264818,6,CCDS12236
+19,exon,10351052,10351162,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,22,ENSE00003656906,1,,,CCDS12236
+19,CDS,10351052,10351162,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,22,,,ENSP00000264818,6,CCDS12236
+19,exon,10350529,10350968,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,23,ENSE00003725414,1,,,CCDS12236
+19,CDS,10350837,10350968,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,23,,,ENSP00000264818,6,CCDS12236
+19,stop_codon,10350834,10350836,-,0,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,23,,,,,CCDS12236
+19,five_prime_utr,10378407,10378508,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,,,,,,CCDS12236
+19,three_prime_utr,10350529,10350833,-,.,ENSG00000105397,14,TYK2,ensembl_havana,protein_coding,ENST00000264818,10,TYK2-201,ensembl,protein_coding,basic,1,,,,,,CCDS12236

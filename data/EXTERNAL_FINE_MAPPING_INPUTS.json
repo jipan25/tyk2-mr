@@ -1,0 +1,32 @@
+[
+  {
+    "input_filename": "finngen_R13_M13_RHEUMA.SUSIE.TYK2_region.tsv.gz",
+    "sha256": "5a24bd5de14fcf78ece87db6a5a758e6e23f0825c7d699c43cee933c98b871f8",
+    "redistributed": false
+  },
+  {
+    "input_filename": "QTD000024.TYK2_KEAP1.lbf_variable.tsv.gz",
+    "sha256": "4c8d2d40c2557072c9cba9833ad08dc8d99e136412d4e84206a7b83812a14acc",
+    "redistributed": false
+  },
+  {
+    "input_filename": "finngen_R13_RHEUMA_SEROPOS_STRICT.SUSIE.TYK2_region.tsv.gz",
+    "sha256": "e96e7fc607830fe4866040042dff42567de341ffadfa163eaefcea25f9f31d36",
+    "redistributed": false
+  },
+  {
+    "input_filename": "QTD000034.TYK2_KEAP1.lbf_variable.tsv.gz",
+    "sha256": "5b6aaa0e6f0b87838eac32c4d1a533185b93d93b2aaba83238574f051e29431e",
+    "redistributed": false
+  },
+  {
+    "input_filename": "QTD000329.TYK2_KEAP1.lbf_variable.tsv.gz",
+    "sha256": "cfea5ad59049a3172b445111013f4eaa7b0e5c4719477893e15afb7158c10e48",
+    "redistributed": false
+  },
+  {
+    "input_filename": "QTD000359.TYK2_KEAP1.lbf_variable.tsv.gz",
+    "sha256": "298fe431a07d40bb99ae016dfbd10ddaac986103ad7d6e5b7d1e736a83b014f0",
+    "redistributed": false
+  }
+]

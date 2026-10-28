@@ -1,0 +1,3 @@
+outcome_id,method,nsnp,b,se,pval,Q,Q_df,min_LD_eigenvalue,limitation
+M13_RHEUMA,EUR-reference generalized IVW sensitivity,5,-0.1961819248666783,0.15068655061120376,0.19294352852650998,48.332204587610484,4,0.562594703772909,"External 503-person EUR LD, not Finnish in-sample LD; approximate covariance sensitivity"
+RHEUMA_SEROPOS_STRICT,EUR-reference generalized IVW sensitivity,5,-0.25412211447399735,0.199262244724291,0.20219779751312714,34.69765171187461,4,0.562594703772909,"External 503-person EUR LD, not Finnish in-sample LD; approximate covariance sensitivity"

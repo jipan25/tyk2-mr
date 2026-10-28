@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this version of the analytical code and the original data resources listed in DATA_SOURCES.md."
+type: software
+title: "TYK2-MR: reproducible molecular-signal analyses in rheumatoid arthritis"
+authors:
+  - name: "TYK2-MR contributors"
+version: 0.1.0
+date-released: 2026-10-28
+url: "https://github.com/jipan25/tyk2-mr"
+repository-code: "https://github.com/jipan25/tyk2-mr"
+license: MIT

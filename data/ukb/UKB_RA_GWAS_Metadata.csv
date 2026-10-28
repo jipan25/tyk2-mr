@@ -1,0 +1,2 @@
+"id","trait","build","group_name","category","subcategory","population","sex","author","nsnp","sample_size","year","ontology","unit","ncase","ncontrol","consortium","mr","priority","note"
+"ukb-b-9125","Non-cancer illness code, self-reported: rheumatoid arthritis","HG19/GRCh37","public","Binary",NA,"European","Males and Females","Ben Elsworth",9851867,462933,2018,NA,"SD",5201,457732,"MRC-IEU",1,1,"20002#1464: Output from GWAS pipeline using Phesant derived variables from UKBiobank"

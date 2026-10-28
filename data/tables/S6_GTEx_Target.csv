@@ -1,0 +1,3 @@
+"target","n_exposures_with_results","n_tests_completed","n_nominal","n_fdr_all_significant","n_bonferroni_all_significant","min_p","min_fdr_all","top_tissue","top_outcome_group","top_outcome_label","top_beta","top_or","top_p","interpretation"
+"JAK1",6,128,17,0,0,0.000612120592840026,0.108345344932685,"Lung","Hypothyroid","Hypothyroidism/myxoedema - UKB self-reported",0.0134803737256933,1.01357164361989,0.000612120592840026,"Lower-tier GTEx single-lead comparator context; no all-test FDR or Bonferroni-supported signal"
+"JAK3",3,49,4,0,0,0.0178538812715195,0.349315321604872,"Lung","T1D","Type 1 diabetes - Chiou European",0.453346531637859,1.57356938362049,0.0178538812715195,"Lower-tier GTEx single-lead comparator context; no all-test FDR or Bonferroni-supported signal"

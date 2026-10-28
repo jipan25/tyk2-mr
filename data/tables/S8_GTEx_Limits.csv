@@ -1,0 +1,9 @@
+"target","attempted_tests","completed_direct_snp_tests","failed_no_direct_snp_tests","direct_completion_fraction","record_type","item","statement"
+"JAK1",203,128,75,0.630541871921182,"direct_snp_missingness",,
+"JAK3",87,49,38,0.563218390804598,"direct_snp_missingness",,
+,,,,,"claim_boundary","Evidence tier","GTEx JAK1/JAK3 results remain Tier 3 tissue-specific comparator context."
+,,,,,"claim_boundary","Multiple testing","No JAK1 or JAK3 GTEx lead-eQTL MR result survived all-test FDR<0.05 or Bonferroni correction across 177 completed Wald-ratio tests."
+,,,,,"claim_boundary","Instrument design","Each exposure uses one FDR-significant GTEx eGene lead variant per tissue; estimates are single-variant Wald ratios, not multi-instrument MR."
+,,,,,"claim_boundary","Missingness","Outcome extraction used direct SNP matches without proxy substitution; failed extractions reflect missing direct SNPs rather than null associations."
+,,,,,"claim_boundary","Appropriate manuscript claim","GTEx follow-up shows that JAK1/JAK3 are biologically instrumentable in selected tissues and provides lower-tier comparator signals that require replication or colocalization."
+,,,,,"claim_boundary","Inappropriate manuscript claim","JAK1/JAK3 have been compared at the same evidence level as the multi-instrument, colocalized TYK2-RA result."

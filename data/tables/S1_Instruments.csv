@@ -1,0 +1,6 @@
+"target","raw_cis_eqtls_in_eqtlgen_file","genome_wide_significant_eqtls.x","clumped_instruments_used","fresh_mr_status","raw_cis_eqtls_in_file","genome_wide_significant_eqtls.y","min_pvalue","median_eqtl_sample_size","max_eqtl_sample_size","clumped_instruments","min_f_statistic","median_f_statistic","weak_instruments_f_le_10","exposure_source","p_threshold","clumping","interpretation"
+"IL6R",25,25,1,"completed",25,25,4.0915e-34,31566,31684,1,148.29394176,148.29394176,0,"eQTLGen whole-blood cis-eQTL","P < 5e-8","r2 < 0.1 within 10 Mb","All retained instruments exceed F>10"
+"JAK1",0,0,0,"no_cis_eqtl_instrument",,,,,,,,,,,,,
+"JAK2",512,512,7,"completed",512,512,8.5748e-141,31567,31684,7,109.160704,140.81856889,0,"eQTLGen whole-blood cis-eQTL","P < 5e-8","r2 < 0.1 within 10 Mb","All retained instruments exceed F>10"
+"JAK3",0,0,0,"no_cis_eqtl_instrument",,,,,,,,,,,,,
+"TYK2",174,174,5,"completed",174,174,7.91189999999999e-170,30804,30935,5,128.21259361,217.70412304,0,"eQTLGen whole-blood cis-eQTL","P < 5e-8","r2 < 0.1 within 10 Mb","All retained instruments exceed F>10"

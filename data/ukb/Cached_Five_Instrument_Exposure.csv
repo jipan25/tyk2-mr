@@ -1,0 +1,6 @@
+"SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","se.exposure","beta.exposure","exposure","mr_keep.exposure","pval.exposure","pval_origin.exposure","id.exposure"
+"rs1058154","A","C",0.21911395807203,0.0104398081575678,-0.132827767150366,"TYK2 eQTLGen whole-blood cis-eQTL",TRUE,4.39486169907339e-37,"inferred","TYK2"
+"rs11882133","C","A",0.338521702094707,0.00857445476831641,0.126514365215555,"TYK2 eQTLGen whole-blood cis-eQTL",TRUE,2.86539562802705e-49,"inferred","TYK2"
+"rs12720250","T","G",0.0686947988223749,0.0158532337639578,-0.263846954856927,"TYK2 eQTLGen whole-blood cis-eQTL",TRUE,3.39574000902838e-62,"inferred","TYK2"
+"rs144309607","T","C",0.0337623265920107,0.0261560214922045,0.29616724695838,"TYK2 eQTLGen whole-blood cis-eQTL",TRUE,1.00841686618609e-29,"inferred","TYK2"
+"rs34725611","G","A",0.270303280844827,0.00894155316871777,0.248383828852544,"TYK2 eQTLGen whole-blood cis-eQTL",TRUE,7.86803056247654e-170,"inferred","TYK2"
